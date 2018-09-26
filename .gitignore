@@ -114,3 +114,8 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+# commitizen
+/node_modules
+package-lock.json
+package.json
